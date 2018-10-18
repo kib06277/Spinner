@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="RadioMode">
+        <item>省電跳頻模式</item>
+        <item>標準跳頻模式</item>
+        <item>單一頻道模式</item>
+    </string-array>
+
+    <string-array name="Bootode">
+        <item>頻道群01</item>
+        <item>頻道群02</item>
+        <item>頻道群03</item>
+        <item>頻道群04</item>
+        <item>頻道群05</item>
+        <item>頻道群06</item>
+        <item>頻道群07</item>
+        <item>頻道群08</item>
+        <item>頻道群09</item>
+    </string-array>
+</resources>
