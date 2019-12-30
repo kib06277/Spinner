@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0693e4</color>
+    <color name="colorPrimaryDark">#0476b7</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="panelColorPrimary">#ddd</color>
+    <color name="white">#ffffff</color>
+
+    <color name="colorActivityBackground">#eeeeee</color>
+    <color name="colorAccent">#A7988B</color>
+
+    <color name="colorText">#131313</color>
+    <color name="colorTextGray">#888</color>
+    <color name="colorOptionText">#0693e4</color>
+    <color name="colorRelayTagText">#355d0b</color>
+    <color name="colorButtonDark">#0082cd</color>
+    <color name="colorButton">#0b8dd8</color>
+    <color name="colorButtonLight">#2eb0fb</color>
+
+    <color name="colorToggleButtonDark">#c9c9c8</color>
+    <color name="colorToggleButtonLight">#fff</color>
+    <color name="colorToggledButtonDark">#0183ce</color>
+    <color name="colorToggledButtonLight">#2eb0fb</color>
+    <color name="background_textcolor">#7F3F3F</color>
+    <color name="background">#FEDBBB</color>
+    <color name="MulitSystem_BackGround">#ffd3ac</color>
+
+
+    <integer-array name="cpb_bar_colors">
+        <item>@color/cpb_color_1</item>
+        <item>@color/cpb_color_2</item>
+        <item>@color/cpb_color_3</item>
+        <item>@color/cpb_color_4</item>
+    </integer-array>
+
+    <color name="cpb_color_1">#85edb9</color>
+    <color name="cpb_color_2">#34bdb7</color>
+    <color name="cpb_color_3">#e8ee44</color>
+    <color name="cpb_color_4">#fcbc4d</color>
+
+    <color name="spinnerbackground">#fcc082</color>
+    <color name="spinnerframe">#7e3737</color>
+
+    <color name="viewpager">#fcc082</color>
+    <color name="app_primary">#A94246</color>
+    <color name="app_primary_dark">#872328</color>
+    <color name="app_primary_accent">#F9B0B4</color>
+    <color name="transparent_black">#E6000000</color>
+    <color name="black">#000000</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="light_gray">#f4f4f4</color>
+    <color name="bg1">#fff8ec</color>
+    <color name="bg2">#fffcf6</color>
+    <color name="click_change">#ffedca</color>
+    <color name="white1">#ffffffff</color>
+    <color name="unfocused">#cccccccc</color>
+    <color name="pressed">#fff22fff</color>
+    <color name="selected">#fff33fff</color>
+    <color name="focused">#ffff44ff</color>
+    <color name="colorPrimary1">#43a047</color>
+    <color name="colorPrimaryDark1">#2e7d32</color>
+    <color name="colorAccent1">#e64a19</color>
+    <color name="colorAccentDark">#bf360c</color>
+    <color name="windowBackground">#eeeeee</color>
+    <color name="font_base">#95000000</color>
+    <color name="font_icon">#65000000</color>
+    <color name="gray">#757575</color>
+    <color name="red">#ff0000</color>
+    <color name="gray1">#808080</color>
+    <color name="title">#E5E5E5</color>
+    <color name="title1">#495F79</color>
+
+    <string-array name="func_colors">
+        <item>#525252</item><!-- alarm -->
+        <item>#f23f07</item><!-- 普通 -->
+        <item>#c4860b</item><!-- 奈跳 -->
+        <item>#8c1ef3</item>
+        <item>#6476e6</item>
+        <item>#495604</item>
+        <item>#768b16</item>
+        <item>#0877ea</item>
+        <item>#a1cef3</item>
+        <item>#b756a6</item>
+        <item>#1f8fcf</item>
+        <item>#c68bc6</item>
+        <item>#886fca</item>
+    </string-array>
+
+    <string-array name="rs_colors">
+        <item>#525252</item>
+        <item>#199e9b</item>
+        <item>#7f5316</item>
+        <item>#d6ab03</item>
+        <item>#ac7dea</item>
+        <item>#115489</item>
+        <item>#1f8fcf</item>
+        <item>#713871</item>
+    </string-array>
+</resources>

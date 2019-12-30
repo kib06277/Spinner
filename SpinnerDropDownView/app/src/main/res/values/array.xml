@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--跳頻功能-->
+    <string-array name="RadioMode">
+        <item>省電跳頻模式</item>
+        <item>標準跳頻模式</item>
+        <item>單一頻道模式</item>
+    </string-array>
+
+    <!--頻道設定-->
+    <string-array name="Channel">
+        <item>頻道群01</item>
+        <item>頻道群02</item>
+        <item>頻道群03</item>
+        <item>頻道群04</item>
+        <item>頻道群05</item>
+        <item>頻道群06</item>
+        <item>頻道群07</item>
+        <item>頻道群08</item>
+        <item>頻道群09</item>
+        <item>頻道群10</item>
+        <item>頻道群11</item>
+        <item>頻道群12</item>
+        <item>頻道群13</item>
+        <item>頻道群14</item>
+        <item>頻道群15</item>
+        <item>頻道群16</item>
+        <item>頻道群17</item>
+        <item>頻道群18</item>
+        <item>頻道群19</item>
+        <item>頻道群20</item>
+        <item>頻道群21</item>
+        <item>頻道群22</item>
+        <item>頻道群23</item>
+        <item>頻道群24</item>
+        <item>頻道群25</item>
+        <item>頻道群26</item>
+        <item>頻道群27</item>
+        <item>頻道群28</item>
+        <item>頻道群29</item>
+        <item>頻道群30</item>
+        <item>頻道群31</item>
+        <item>頻道群32</item>
+    </string-array>
+
+    <!--頻率-->
+    <string-array name="frequency">
+        <item>CH 001 (430.025MHz)</item>
+    </string-array>
+
+    <!--開機模式-->
+    <string-array name="BootMode">
+        <item>任意鍵開機</item>
+        <item>開機鍵開機</item>
+        <item>密碼開機</item>
+    </string-array>
+
+    <!--發射模式-->
+    <string-array name="LaunchMode">
+        <item>非持續發射</item>
+        <item>持續發射 30 秒關機</item>
+        <item>持續發射 1.0 分鐘關機</item>
+        <item>持續發射 1.5 分鐘關機</item>
+        <item>持續發射 2.0 分鐘關機</item>
+        <item>持續發射 3.0 分鐘關機</item>
+        <item>持續發射 5.0 分鐘關機</item>
+        <item>持續發射 10 分鐘關機</item>
+        <item>持續發射永不關機</item>
+    </string-array>
+
+    <!--距離開機-->
+    <string-array name="DistanceBoot">
+        <item>無效</item>
+        <item>有效</item>
+    </string-array>
+
+    <!--停用關機-->
+    <string-array name="DisableShutdown">
+        <item>無效</item>
+        <item>有效</item>
+    </string-array>
+
+    <!--接管與釋放-->
+    <string-array name="TakeOver_Release">
+        <item>無效</item>
+        <item>有效</item>
+    </string-array>
+
+    <!--接管與釋放選擇-->
+    <string-array name="TakeOver_ReleaseSelect">
+        <item>接收機</item>
+        <item>接收機#1</item>
+        <item>接收機#2</item>
+        <item>接收機#3</item>
+        <item>接收機#4</item>
+        <item>接收機#5</item>
+        <item>接收機#6</item>
+        <item>接收機#7</item>
+        <item>接收機#8</item>
+        <item>接收機#9</item>
+        <item>接收機#10</item>
+        <item>接收機#11</item>
+        <item>接收機#12</item>
+        <item>接收機#13</item>
+        <item>接收機#14</item>
+        <item>接收機#15</item>
+    </string-array>
+
+    <!--LED燈號閃爍時間-->
+    <string-array name="FlashingTime">
+        <item>0.0 秒</item>
+        <item>0.3 秒</item>
+        <item>0.5 秒</item>
+        <item>1.0 秒</item>
+        <item>2.0 秒</item>
+        <item>3.0 秒</item>
+        <item>4.0 秒</item>
+        <item>燈號關閉</item>
+    </string-array>
+
+    <!--發射功率-->
+    <string-array name="TransmitPower">
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+        <item>微弱</item>
+    </string-array>
+
+    <!--e卡拷貝功能-->
+    <string-array name="E_Copy">
+        <item>無效</item>
+        <item>有效</item>
+    </string-array>
+
+    <!--開 / 關機警報-->
+    <string-array name="Alarm_ONOFF">
+        <item>關閉</item>
+        <item>開啟 2 秒</item>
+        <item>開啟 3 秒</item>
+        <item>開啟 4 秒</item>
+        <item>開啟 5 秒</item>
+        <item>開啟 6 秒</item>
+    </string-array>
+
+    <!--停用關機-->
+    <string-array name="DisableShutdown_time">
+        <item>不關機</item>
+        <item>30 秒</item>
+        <item>10 分鐘</item>
+        <item>20 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+        <item>2 小時</item>
+        <item>3 小時</item>
+        <item>4 小時</item>
+        <item>5 小時</item>
+        <item>6 小時</item>
+        <item>7 小時</item>
+        <item>8 小時</item>
+        <item>9 小時</item>
+    </string-array>
+
+    <!--干擾動作-->
+    <string-array name="InterferenceAction">
+        <item>被動急停關動作</item>
+        <item>被動急停關機</item>
+    </string-array>
+
+    <!--干擾忽略時間-->
+    <string-array name="InterferenceAction_time">
+        <item>0.5 秒</item>
+        <item>0.6 秒</item>
+        <item>0.7 秒</item>
+        <item>0.8 秒</item>
+        <item>0.9 秒</item>
+        <item>1.0 秒</item>
+        <item>1.5 秒</item>
+        <item>2.0 秒</item>
+        <item>3.0 秒</item>
+        <item>4.0 秒</item>
+    </string-array>
+
+    <!--功能選擇-->
+    <string-array name="FunctionSelection">
+        <item>Alarm</item>
+        <item>普通</item>
+        <item>奈跳</item>
+        <item>開／關</item>
+        <item>電磁鐵</item>
+        <item>普通寸動</item>
+        <item>奈跳寸動</item>
+        <item>開／關／開</item>
+        <item>液壓控制</item>
+    </string-array>
+
+    <!--急停選擇-->
+    <string-array name="EmergencyStop_Selection">
+        <item>受急停控制</item>
+        <item>不受急停控制</item>
+    </string-array>
+
+    <!--off 延遲-->
+    <string-array name="OFFDelay">
+        <item>0秒</item>
+        <item>0.1秒</item>
+        <item>0.2秒</item>
+        <item>0.3秒</item>
+        <item>0.4秒</item>
+        <item>0.5秒</item>
+        <item>0.6秒</item>
+        <item>0.7秒</item>
+        <item>0.8秒</item>
+        <item>0.9秒</item>
+        <item>1.0秒</item>
+        <item>2.0秒</item>
+        <item>3.0秒</item>
+        <item>5.0秒</item>
+    </string-array>
+
+    <!--寸動-->
+    <string-array name="Inching">
+        <item>0.1秒</item>
+        <item>0.2秒</item>
+        <item>0.3秒</item>
+        <item>0.4秒</item>
+        <item>0.5秒</item>
+        <item>0.6秒</item>
+        <item>0.7秒</item>
+        <item>0.8秒</item>
+        <item>0.9秒</item>
+        <item>1.0秒</item>
+        <item>2.0秒</item>
+        <item>3.0秒</item>
+        <item>5.0秒</item>
+    </string-array>
+
+    <!--幫浦開啟-->
+    <string-array name="PumpOpen">
+        <item>快15分</item>
+        <item>快10分</item>
+        <item>快 5分</item>
+        <item>快 3分</item>
+        <item>快 2分</item>
+        <item>快 1分</item>
+        <item>快50秒</item>
+        <item>快30秒</item>
+        <item>快10秒</item>
+        <item>快 5秒</item>
+        <item>快 3秒</item>
+        <item>快 2秒</item>
+        <item>快 1秒</item>
+        <item>快0.9秒</item>
+        <item>快0.8秒</item>
+        <item>快0.7秒</item>
+        <item>快0.6秒</item>
+        <item>快0.5秒</item>
+        <item>快0.4秒</item>
+        <item>快0.3秒</item>
+        <item>快0.2秒</item>
+        <item>快0.1秒</item>
+        <item>慢0.1秒</item>
+        <item>慢0.2秒</item>
+        <item>慢0.3秒</item>
+        <item>慢0.4秒</item>
+        <item>慢0.5秒</item>
+        <item>慢0.6秒</item>
+        <item>慢0.7秒</item>
+        <item>慢0.8秒</item>
+        <item>慢0.9秒</item>
+        <item>慢 1秒</item>
+        <item>慢 2秒</item>
+        <item>慢 3秒</item>
+        <item>慢 5秒</item>
+        <item>慢10秒</item>
+        <item>慢30秒</item>
+        <item>慢50秒</item>
+        <item>慢 1分</item>
+        <item>慢 2分</item>
+        <item>慢 3分</item>
+        <item>慢 5分</item>
+        <item>慢10分</item>
+        <item>慢15分</item>
+    </string-array>
+
+    <!--幫浦關閉-->
+    <string-array name="PumpClosed">
+        <item>快15分</item>
+        <item>快10分</item>
+        <item>快 5分</item>
+        <item>快 3分</item>
+        <item>快 2分</item>
+        <item>快 1分</item>
+        <item>快50秒</item>
+        <item>快30秒</item>
+        <item>快10秒</item>
+        <item>快 5秒</item>
+        <item>快 3秒</item>
+        <item>快 2秒</item>
+        <item>快 1秒</item>
+        <item>快0.9秒</item>
+        <item>快0.8秒</item>
+        <item>快0.7秒</item>
+        <item>快0.6秒</item>
+        <item>快0.5秒</item>
+        <item>快0.4秒</item>
+        <item>快0.3秒</item>
+        <item>快0.2秒</item>
+        <item>快0.1秒</item>
+        <item>慢0.1秒</item>
+        <item>慢0.2秒</item>
+        <item>慢0.3秒</item>
+        <item>慢0.4秒</item>
+        <item>慢0.5秒</item>
+        <item>慢0.6秒</item>
+        <item>慢0.7秒</item>
+        <item>慢0.8秒</item>
+        <item>慢0.9秒</item>
+        <item>慢 1秒</item>
+        <item>慢 2秒</item>
+        <item>慢 3秒</item>
+        <item>慢 5秒</item>
+        <item>慢10秒</item>
+        <item>慢30秒</item>
+        <item>慢50秒</item>
+        <item>慢 1分</item>
+        <item>慢 2分</item>
+        <item>慢 3分</item>
+        <item>慢 5分</item>
+        <item>慢10分</item>
+        <item>慢15分</item>
+        <item>不關閉</item>
+    </string-array>
+
+    <!--遙控器按鍵-->
+    <string-array name="ControlButton">
+        <item>停/STOP</item>
+        <item>開 警報/START ALARM</item>
+        <item>上/UP</item>
+        <item>下/DOWN</item>
+        <item>東/EAST</item>
+        <item>西/WEST</item>
+        <item>南/SOUTH</item>
+        <item>北/NORTH</item>
+    </string-array>
+
+    <!--抑制功能選擇-->
+    <string-array name="Suppression_Selection">
+        <item>普通抑制</item>
+        <item>奈跳抑制</item>
+        <item>群組奈跳抑制</item>
+        <item>普通-奈跳抑制</item>
+        <item>普通抑制(不中斷)</item>
+    </string-array>
+
+    <!--抑制延遲-->
+    <string-array name="SuppressionDelay">
+        <item>0.1秒</item>
+        <item>0.2秒</item>
+        <item>0.3秒</item>
+        <item>0.4秒</item>
+        <item>0.5秒</item>
+        <item>0.6秒</item>
+        <item>0.7秒</item>
+        <item>0.8秒</item>
+        <item>0.9秒</item>
+        <item>1.0秒</item>
+        <item>2.0秒</item>
+        <item>3.0秒</item>
+        <item>5.0秒</item>
+    </string-array>
+
+    <!--繼電器選項-->
+    <string-array name="RelayOption">
+        <item>上</item>
+        <item>下</item>
+        <item>東</item>
+        <item>西</item>
+        <item>南</item>
+        <item>北</item>
+        <item>開</item>
+    </string-array>
+</resources>
