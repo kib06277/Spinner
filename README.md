@@ -13,5 +13,5 @@
 # SpinnerDropDownView
 下拉式選單點開後的選單內容
 
-#RepeatSelectSpinner
+# RepeatSelectSpinner
 解決下拉式選單無法重複點選相同選項的問題
